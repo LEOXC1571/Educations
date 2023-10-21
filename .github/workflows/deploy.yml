@@ -73,6 +73,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
     # Requires the build job results
     needs: test
     runs-on: ubuntu-latest
