@@ -1,2 +1,2 @@
 # Educations
-The 'Educations' section of my blog
+The 'Educations' section of my blog 
