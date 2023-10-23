@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="edu"
-                 name="education"
-                 start-page="starter-topic.md">
+                 name="Education"
+                 start-page="educations_starter.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="educations_starter.md"/>
 </instance-profile>
